@@ -1,4 +1,3 @@
-
 # Consuming a RESTful Web Service
 
 ## Guide Link
